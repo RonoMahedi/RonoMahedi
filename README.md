@@ -1,6 +1,7 @@
 [![Header]()]
 
-
+<h1 align="center">Hi 👋, I'm Azad</h1>
+<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
 **Languages I have used**
 
