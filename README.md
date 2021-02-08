@@ -1,6 +1,6 @@
 [![Header]()]
 
-[![webtipstricks.com](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)]
+
 
 **Languages I have used**
 
