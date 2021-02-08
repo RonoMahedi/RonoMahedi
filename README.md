@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azad</h1>
 
-[![Header](https://github.com/RonoMahedi/RonoMahedi/blob/main/ronomahedi.gif)]
+![Header](https://github.com/RonoMahedi/RonoMahedi/blob/main/ronomahedi.gif)
 
 
 **Languages I have used**
