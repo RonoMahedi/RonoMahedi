@@ -8,6 +8,7 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL&logoColor=ff9f43)
@@ -23,11 +24,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronomahedi&show_icons=true&locale=en&layout=compact" alt="ronomahedi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronomahedi&show_icons=true&locale=en" alt="ronomahedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronomahedi&" alt="ronomahedi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronomahedi&show_icons=true&locale=en&layout=compact" alt="ronomahedi" /></p>
+
 
 
 
