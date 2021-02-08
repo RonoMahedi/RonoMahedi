@@ -24,7 +24,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronomahedi&show_icons=true&locale=en_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="ronomahedi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronomahedi&show_icons=true&locale=en" alt="ronomahedi" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronomahedi&show_icons=true&locale=en&layout=compact" alt="ronomahedi" /></p>
 
